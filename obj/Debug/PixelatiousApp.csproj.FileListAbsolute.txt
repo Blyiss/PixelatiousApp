@@ -1,1 +1,2 @@
 D:\University\PixelatiousApp\PixelatiousApp\PixelatiousApp\bin\Debug\PixelatiousApp.exe.config
+D:\Apps\PixelatiousApp\PixelatiousApp\PixelatiousApp\bin\Debug\PixelatiousApp.exe.config
